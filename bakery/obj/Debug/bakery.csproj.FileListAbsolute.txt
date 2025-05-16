@@ -1,0 +1,40 @@
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\bakery.exe.config
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\bakery.exe
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\bakery.pdb
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\Npgsql.dll
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.ValueTuple.dll
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\Npgsql.pdb
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\Npgsql.xml
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\university\forOthers\iraIndApp\bakery\bakery\bin\Debug\System.ValueTuple.xml
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.csproj.AssemblyReference.cache
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.Form1.resources
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.Properties.Resources.resources
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.csproj.GenerateResource.cache
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.csproj.CoreCompileInputs.cache
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.csproj.Up2Date
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.exe
+D:\university\forOthers\iraIndApp\bakery\bakery\obj\Debug\bakery.pdb
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\bakery.exe.config
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\bakery.exe
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\bakery.pdb
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\Npgsql.dll
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.ValueTuple.dll
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\Npgsql.pdb
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\Npgsql.xml
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\bin\Debug\System.ValueTuple.xml
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.csproj.AssemblyReference.cache
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.Form1.resources
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.Properties.Resources.resources
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.csproj.GenerateResource.cache
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.csproj.CoreCompileInputs.cache
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.csproj.Up2Date
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.exe
+D:\university\forOthers\iraIndApp\bakery — успешная версия\bakery\obj\Debug\bakery.pdb
